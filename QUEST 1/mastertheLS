@@ -1,0 +1,1 @@
+ls -u -m -p -I '.*' | tr -d '[:space:]'
